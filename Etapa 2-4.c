@@ -14,11 +14,11 @@ int main()
     printf("\nVariavel B = ");
     scanf("%d", &numeroB);
 
-    resultado = numeroA + numeroB;
+        resultado = numeroA + numeroB;
 
     printf("Resultado de %d + %d = %d\n\n",numeroA,numeroB,resultado);
 
-    resultado = numeroA - numeroB;
+        resultado = numeroA - numeroB;
 
     printf("Resultado de %d - %d = %d\n\n",numeroA,numeroB,resultado);
 
