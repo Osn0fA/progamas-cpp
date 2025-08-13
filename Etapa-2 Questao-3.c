@@ -2,10 +2,19 @@
 
 int main(void)
 {
+    
+    int resultado = 0;
     int x = 1;
 
+    printf("tabuada do Sexo\n");
+
     while (x < 11){
-        printf("Numero: %d \n",x);
+
+        // 2 * x = resultado
+
+        resultado = 2 * x;
+
+        printf(" 2 x %d = %d \n", x, resultado);
         x++;
     }
 }
