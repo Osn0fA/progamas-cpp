@@ -12,7 +12,7 @@ int main(void)
     printf("Insira o Valor do raio para caucular a circunferencia.\n\nValor do Raio: ");
     scanf("%f",&raio);
 
-    resultado = (PI * 2) * raio;
+    resultado = (raio * raio) * PI;
 
     printf("%.2f",resultado);
 
