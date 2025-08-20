@@ -6,7 +6,7 @@ int main(void)
     int resultado = 0;
     int x = 1;
 
-    printf("tabuada do Sexo\n");
+    printf("tabuada do 2\n");
 
     while (x < 11){
 

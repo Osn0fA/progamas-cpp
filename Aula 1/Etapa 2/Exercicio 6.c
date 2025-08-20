@@ -10,10 +10,10 @@ int main()
     printf("Olá usuario seja bem-vindo. Por favor me diga sua idade. =)\n\nIdade = ");
     scanf("%d", &idadeUsr);
 
-    printf("Obrigado usuario... Vc tem %d de idade. Parabéns como vc sobreviveu tanto?",idadeUsr);
+    printf("Obrigado usuario... Vc tem %d de idade. \nParabéns como vc sobreviveu tanto?",idadeUsr);
 
     DiasVida = idadeUsr * 365;
 
-    printf("Parabens vc sobrevivieu em media de %d dias. Vc tem 14 dias sobrando.", DiasVida);
+    printf("\nVc sobrevivieu em media de %d dias.\nVc tem 14 dias sobrando.", DiasVida);
 
 }
