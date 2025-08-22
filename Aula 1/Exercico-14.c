@@ -14,5 +14,13 @@ int main()
 
     scanf(" %c",&opção);
 
+    if (opção == 'A' || opção == 'a'){
+
+    }
+
+    
+    if (opção == 'B' || opção == 'b'){
+        
+    }
     
 }
